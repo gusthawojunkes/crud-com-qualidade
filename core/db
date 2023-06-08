@@ -1,0 +1,52 @@
+{
+  "todos": [
+    {
+      "id": "ccd17fe2-88d1-4820-830e-d556690f0204",
+      "date": "2023-05-14T22:17:22.849Z",
+      "content": "Primeira TODO",
+      "done": false
+    },
+    {
+      "id": "05b37a5d-4692-4088-865a-bc45f4bf3bd4",
+      "date": "2023-05-14T22:17:22.857Z",
+      "content": "TODO atualizada!",
+      "done": false
+    },
+    {
+      "id": "be800f92-2993-4278-9b1c-917da9c459b7",
+      "date": "2023-03-27T00:07:51.718Z",
+      "content": "Ir ao parque",
+      "done": false
+    },
+    {
+      "id": "br800f92-2993-4278-9b1c-917da9c459b7",
+      "date": "2023-03-27T00:07:51.718Z",
+      "content": "Passear com a doguinha",
+      "done": false
+    },
+    {
+      "id": "6a55a872-c0cd-456a-bd0e-e527d9e8cb6a",
+      "date": "2023-06-04T23:30:20.796Z",
+      "content": "eqweqw",
+      "done": false
+    },
+    {
+      "id": "6ab56984-a474-4cd6-9c1d-d6e32787e809",
+      "date": "2023-06-04T23:30:42.111Z",
+      "content": "asda",
+      "done": false
+    },
+    {
+      "id": "edf9a4ce-aa86-4287-8780-67589ceaf4ef",
+      "date": "2023-06-05T00:38:06.720Z",
+      "content": "aaaaaa",
+      "done": true
+    },
+    {
+      "id": "1c98a33d-9486-41c1-8a08-a393a93d9a65",
+      "date": "2023-06-08T17:14:38.022Z",
+      "content": "aaaa",
+      "done": false
+    }
+  ]
+}
