@@ -1,11 +1,8 @@
 name: "[CD] Continuous Delivery"
 
-# on:
-#   push:
-#     branches: [ main ]
 on:
-    pull_request:
-        types: [opened, synchronize]
+    push:
+        branches: [master]
 
 env:
     VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
