@@ -8,8 +8,8 @@ on:
         types: [opened, synchronize]
 
 env:
-    VERCEL_ORG_ID: nvquWHxA3eADFldS6IK8tX7W
-    VERCEL_PROJECT_ID: prj_63AYbMLPiYGiYreBLPVr4mos1mKu
+    VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+    VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
 
 jobs:
     deploy:
